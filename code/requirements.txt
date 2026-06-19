@@ -1,0 +1,5 @@
+pandas
+Pillow
+python-dotenv
+huggingface_hub
+tqdm
